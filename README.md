@@ -35,7 +35,7 @@ Python, Pandas, Scikit-learn, SciPy, Matplotlib, Seaborn, Looker Studio
 
 
 ## 산출물
-[데이터 분석 보고서](https://fastriver0714.atlassian.net/wiki/x/AoB1AQ)  (Confluence 작업원본)
+[데이터 분석 보고서](https://fastriver0714.atlassian.net/wiki/x/IQEB) (Confluence 작업원본)
 
 [데이터 분석 보고서](https://drive.google.com/file/d/1rP1MO6jJVAEuwzfiK9Yd9I4IeNJMti3T/view?usp=sharing) (위 링크가 작동안할 시 구글드라이브링크)
 
