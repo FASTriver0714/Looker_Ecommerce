@@ -28,18 +28,21 @@ EDA, 유저 군집화, 가설 검정을 통해 비즈니스 인사이트를 도�
 
 ---
 
-## 기술 스택
 
-Python, Pandas, Scikit-learn, SciPy, Matplotlib, Seaborn, Looker Studio
+## 🔨 사용 기술
 
-
-
-## 산출물
-[데이터 분석 보고서](https://fastriver0714.atlassian.net/wiki/x/IQEB) (Confluence 작업원본)
-
-[데이터 분석 보고서](https://drive.google.com/file/d/1rP1MO6jJVAEuwzfiK9Yd9I4IeNJMti3T/view?usp=sharing) (위 링크가 작동안할 시 구글드라이브링크)
+- Python, Pandas, Scikit-learn, SciPy, Matplotlib, Seaborn, Google Colab
+- Google BigQuery
+- Looker Studio
+- Jira Confluence
+---
 
 
-[대시보드](https://lookerstudio.google.com/reporting/7bc36f46-8278-4a2d-a43a-9ee3599f6dfc)
+## 관련 산출물
+📄[분석보고서](https://fastriver0714.atlassian.net/wiki/x/IQEB) ← Jira Confluence
 
-[대시보드](https://drive.google.com/file/d/1Z7pAzSwtSJRfBz2SSHO1VpVIcjgl0QOs/view?usp=sharing)
+📄[분석보고서](https://drive.google.com/file/d/1rP1MO6jJVAEuwzfiK9Yd9I4IeNJMti3T/view?usp=sharing) ← GDrive 
+
+🖼️[대시보드](https://lookerstudio.google.com/reporting/7bc36f46-8278-4a2d-a43a-9ee3599f6dfc) ← Looker Studio
+
+🖼️[대시보드](https://drive.google.com/file/d/1Z7pAzSwtSJRfBz2SSHO1VpVIcjgl0QOs/view?usp=sharing) ← GDrive
