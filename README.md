@@ -40,6 +40,7 @@ EDA, 유저 군집화, 가설 검정을 통해 비즈니스 인사이트를 도�
 
 ## 관련 산출물 및 데이터
 💾[데이터](https://drive.google.com/drive/folders/1awaPCz0zod9tU6DsUNuIyKgQZI77y-pd?usp=drive_link)
+
 📄[분석보고서](https://fastriver0714.atlassian.net/wiki/x/IQEB) ← Jira Confluence
 
 📄[분석보고서](https://drive.google.com/file/d/1rP1MO6jJVAEuwzfiK9Yd9I4IeNJMti3T/view?usp=sharing) ← GDrive 
